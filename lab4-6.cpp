@@ -1,5 +1,5 @@
 //Lab4-6.cpp - displays the area of a triangle
-//Created/revised by <your name> on <current date>
+//Created/revised by <Darya Nosova> on <2/9/2025>
 
 #include <iostream>
 using namespace std;
@@ -12,7 +12,7 @@ int main()
 	double area = 0.0;
 
 	//calculate and display area
-	area = base * height / 2;
+	area = base * height / 2.0;
 	cout << "Area: " << area << endl;
 
 	return 0;
